@@ -1,1 +1,1 @@
-Not an empty readme
+#!/bin/bash School
